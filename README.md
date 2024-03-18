@@ -71,6 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Preview of The Translator
 <img src="https://i.imgur.com/zIyFJ0z.png"/>
+this is the preview
 
 ## ✍️ Please give this repo a ⭐ if you found it helpful.
 
